@@ -47,9 +47,6 @@
     font-size: 15px;
   }
   
-  input:focus {
-    outline-color: red;
-  }
   
   .button_container {
     display: flex;
